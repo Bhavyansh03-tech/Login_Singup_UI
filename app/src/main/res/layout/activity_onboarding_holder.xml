@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".onboarding.OnboardingHolder"
+    android:background="@color/black"
+    android:id="@+id/main">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <androidx.viewpager2.widget.ViewPager2
+                android:id="@+id/view_pager"
+                android:layout_width="match_parent"
+                android:layout_height="480dp"
+                android:contentDescription="@string/app_name" />
+
+            <com.tbuonomo.viewpagerdotsindicator.DotsIndicator
+                android:id="@+id/dots_indicator"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/view_pager"
+                android:layout_marginBottom="10dp"
+                android:layout_marginStart="40dp"
+                app:dotsColor="@color/grey"
+                app:dotsCornerRadius="8dp"
+                app:dotsSize="10dp"
+                app:dotsSpacing="4dp"
+                app:dotsWidthFactor="2.5"
+                app:progressMode="true"
+                app:selectedDotColor="@color/white" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_below="@id/view_pager">
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/shop_btn"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginStart="40dp"
+                    android:layout_marginEnd="40dp"
+                    app:backgroundTint="@color/light_grey"
+                    android:text="@string/take_your_shop_online"
+                    android:textStyle="bold"
+                    android:textColor="@color/white"
+                    android:textSize="19sp"
+                    app:cornerRadius="18dp"
+                    android:textAllCaps="false"/>
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/customer_btn"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:layout_marginStart="40dp"
+                    android:layout_marginEnd="40dp"
+                    android:layout_marginTop="10dp"
+                    app:backgroundTint="@color/transparent"
+                    app:strokeColor="#66545e"
+                    app:strokeWidth="2dp"
+                    android:text="@string/continue_as_a_customer"
+                    android:textStyle="bold"
+                    android:textColor="@color/white"
+                    android:textSize="19sp"
+                    app:cornerRadius="18dp"
+                    android:textAllCaps="false"/>
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

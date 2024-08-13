@@ -1,0 +1,135 @@
+<resources>
+    <string name="app_name">Shopping</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="purchase_your_item_online">Purchase item online</string>
+    <string name="onbording_bio">Got involved with what\'s happening near you stories about the three heroic adventure.</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="home_delivery">Home Delivery</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login">Login</string>
+    <string name="hey_welcome_back">Hey, \nWelcome \nBack</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="or_continue_with">or continue with</string>
+    <string name="google">Google</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="email_id">Email Id</string>
+    <string name="password">Password</string>
+    <string name="let_s_get_started">Let\'s Get \nStarted</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="please_wait">Please Wait…</string>
+    <string name="welcome_to_your_shopping_app">Welcome To Your Shopping App</string>
+    <string name="bio_1">Hello everyone you can start your business or you can buy your favourite item online next to your door step.</string>
+    <string name="take_your_shop_online">Take Your Shop Online</string>
+    <string name="continue_as_a_customer">Continue as a customer</string>
+    <string name="buy_any_item_online">Buy Any Item Online</string>
+    <string name="your_name">Your name</string>
+    <string name="your_company_name">Your company name</string>
+    <string name="your_email">Your email</string>
+    <string name="your_shop_address">Your shop address</string>
+    <string name="create_account">Create \nAccount</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_up_with_google">Sign up with Google</string>
+    <string name="cont">Continue</string>
+    <string name="home">Home</string>
+    <string name="categories">Categories</string>
+    <string name="orders">Orders</string>
+    <string name="explore">Explore</string>
+    <string name="account">Account</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="shopping_plus">Shopping Plus</string>
+    <string name="profile">Profile</string>
+    <string name="saved_cards_wallet"><![CDATA[Saved Cards & Wallet]]></string>
+    <string name="saved_address">Saved Addresses</string>
+    <string name="select_languages">Select Languages</string>
+    <string name="notification_settings">Notification Settings</string>
+    <string name="credit_option">Credit Options</string>
+    <string name="shopping_pay_later">Shopping Pay Later</string>
+    <string name="save_your_cards_for_faster_checkout">Save your cards for faster checkout</string>
+    <string name="reviews">Reviews</string>
+    <string name="sell_on_shopping">Sell on Shopping</string>
+    <string name="my_activity">My Activity</string>
+    <string name="log_out">Log Out</string>
+    <string name="questions_answers"><![CDATA[Questions & Answers]]></string>
+    <string name="earn_with_shopping">Earn With Shopping</string>
+    <string name="shopping_creator_studio">Shopping Creator Studio</string>
+    <string name="terms_policies_and_licenses">Terms, Policies and Licenses</string>
+    <string name="browse_faqs">Browse FAQs</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="coupons">coupons</string>
+    <string name="help_center">Help Center</string>
+    <string name="hey">Hey!</string>
+    <string name="beauty_grooming"><![CDATA[BEAUTY & \nGROOMING]]></string>
+    <string name="shopping_mall">shopping mall</string>
+    <string name="shopping_lux">Shopping luxe</string>
+    <string name="winter_wear_2023">winter wear \n2023</string>
+    <string name="women">women</string>
+    <string name="men">men</string>
+    <string name="kids">kids</string>
+    <string name="style_cast">Style cast</string>
+    <string name="home_living"><![CDATA[HOME & LIVING]]></string>
+    <string name="accessories">accessories</string>
+    <string name="drop_down_arrow">drop down arrow</string>
+    <string name="first_click">first click</string>
+    <string name="store">Store</string>
+    <string name="img">img</string>
+    <string name="jackets_sweaters_sweatshirts">Jackets, Sweaters, Sweatshirts</string>
+    <string name="kurtas_suits_tops_tees_dr"><![CDATA[Kurtas & Suits, Tops & Tees, Dr…]]></string>
+    <string name="t_shirts_shirts_jeans_shoes">T-Shirts, Shirts, Jeans, Shoes,…</string>
+    <string name="branding_clothing_footwear_a">Branding, Clothing, Footwear, A…</string>
+    <string name="h_m_nike_smashbox_max"><![CDATA[H&M, Nike, Smashbox, Max]]></string>
+    <string name="new_bold_trending">New, Bold, Trending</string>
+    <string name="one_shop_stop_to_amp_up">One Shop Stop to Amp Up</string>
+    <string name="ted_baker_fred_perry_tissot">Ted Baker, Fred Perry, Tissot…</string>
+    <string name="bedsheets_blankets_towels">Bedsheets, Blankets, Towels,…</string>
+    <string name="skincare_makeup_grooming">Skincare, Makeup, Grooming…</string>
+    <string name="teens">teens</string>
+    <string name="next_level_refresh">Next Level Refresh</string>
+    <string name="pet_essentials">pet essentials</string>
+    <string name="clothing_accessories_more"><![CDATA[Clothing, Accessories & More]]></string>
+    <string name="theme_store">theme store</string>
+    <string name="wedding_party_sports">Wedding, Party, Sports, Handl…</string>
+    <string name="tab_layout">tab layout</string>
+    <string name="seller_sku_id">Seller SKU ID</string>
+    <string name="listing_information">Listing Information</string>
+    <string name="add_product_info">ADD PRODUCT INFO</string>
+    <string name="status_details">Status Details</string>
+    <string name="price_details">Price Details</string>
+    <string name="listing_status">Listing Status</string>
+    <string name="mrp">MRP</string>
+    <string name="your_selling_price">Your Selling Price</string>
+    <string name="select_one">Select One</string>
+    <string name="inr">INR</string>
+    <string name="off_you_are_providing_on_product">%off you are providing on product</string>
+    <string name="upload">Upload</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_description">Product Description</string>
+    <string name="category">Category</string>
+    <string name="select_category">Select Category</string>
+    <string name="product_details">Product Details</string>
+    <string name="specifically_for">Specifically For</string>
+    <string-array name="status_details">
+        <item>Active</item>
+        <item>Inactive</item>
+    </string-array>
+    <string-array name="category">
+        <item>Winter Wear</item>
+        <item>Men</item>
+        <item>Women</item>
+        <item>Kids</item>
+        <item>Teen</item>
+        <item>Shopping Mall</item>
+        <item>Style Cast</item>
+        <item>Accessories</item>
+        <item>Shopping Luxe</item>
+        <item><![CDATA[Home & Living]]></item>
+        <item><![CDATA[Beauty & Grooming]]></item>
+        <item>Pet Essentials</item>
+        <item>Theme Store</item>
+    </string-array>
+</resources>
