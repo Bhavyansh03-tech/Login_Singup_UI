@@ -31,7 +31,7 @@ This project showcases a Shopping App UI built using Android XML and Kotlin. It 
 
 ### Animated Login Screen :
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/user-attachments/assets/e26335ec-2507-4757-8b62-0d20b506611a alt="First Screenshot" style="width: 200px; height: auto; margin-right: 10px;">
+    <img src="https://github.com/user-attachments/assets/e26335ec-2507-4757-8b62-0d20b506611a" alt="First Screenshot" style="width: 200px; height: auto; margin-right: 10px;">
     <img src="https://github.com/user-attachments/assets/75a85c99-ad30-48d9-a3da-3b4619a8311a" alt="Second Screenshot" style="width: 200px; height: auto;">
 </div>
 
