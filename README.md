@@ -22,7 +22,25 @@ This project showcases a Shopping App UI built using Android XML and Kotlin. It 
 - **Material Design Components**
 
 ## 📱 Screenshots
+### Animated Onboarding Screen :
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github.com/user-attachments/assets/0bcf8087-24cb-4e40-986b-b11a0e17bf64" alt="First Screenshot" style="width: 200px; height: auto; margin-right: 10px;">
+    <img src="https://github.com/user-attachments/assets/a2bcc375-5953-4b4a-ae8e-1a48dd4fa8bd" alt="Second Screenshot" style="width: 200px; height: auto; margin-right: 10px;">
+    <img src="https://github.com/user-attachments/assets/22b46b49-23e9-4f38-950e-e106bcfd29d5" alt="Third Screenshot" style="width: 200px; height: auto;">
+</div>
 
+### Animated Login Screen :
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github.com/user-attachments/assets/e26335ec-2507-4757-8b62-0d20b506611a alt="First Screenshot" style="width: 200px; height: auto; margin-right: 10px;">
+    <img src="https://github.com/user-attachments/assets/75a85c99-ad30-48d9-a3da-3b4619a8311a" alt="Second Screenshot" style="width: 200px; height: auto;">
+</div>
+
+### Animated Signup Screen :
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github.com/user-attachments/assets/16d72d58-2cf7-4053-99d3-a0ec1808e520" alt="First Screenshot" style="width: 200px; height: auto; margin-right: 10px;">
+    <img src="https://github.com/user-attachments/assets/afbb4541-4d84-4734-a27c-6189c3316f2a" alt="Second Screenshot" style="width: 200px; height: auto; margin-right: 10px;">
+    <img src="https://github.com/user-attachments/assets/e7f4e347-9e1e-48d5-9637-264b8eeaff45" alt="Third Screenshot" style="width: 200px; height: auto;">
+</div>
 
 ## ⚙️ Installation
 
